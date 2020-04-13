@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\WindowsTerminal]
+@="Windows Terminal Here"
+"Icon"="D:\\Program Files\\Scoop\\apps\\WindowsTerminal\\current\\Images\\Square44x44Logo.targetsize-32.png"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\WindowsTerminal\command]
+@="D:\\Program Files\\Scoop\\apps\\WindowsTerminal\\current\\WindowsTerminal.exe"

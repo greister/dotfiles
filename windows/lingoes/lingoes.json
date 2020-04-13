@@ -1,0 +1,28 @@
+{
+    "version": "2.9.2",
+    "description": "Lingos free dictionary and full text translation software.",
+    "homepage": "http://www.lingoes.cn/index.html",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "http://www.lingoes.cn/download/lingoes_portable_2.9.2_cn.zip",
+            "hash": "de1f108dd0de0b87d77ce09e615db09dcda5cb36465ee438c3992b7d9b0ae9f5"
+        },
+        "32bit": {
+            "url": "http://www.lingoes.cn/download/lingoes_portable_2.9.2_cn.zip",
+            "hash": "de1f108dd0de0b87d77ce09e615db09dcda5cb36465ee438c3992b7d9b0ae9f5"
+        }
+    },
+   
+    "bin": "lingoes.exe",
+    "shortcuts": [
+        [
+            "lingoes.exe",
+            "lingoes"
+        ]
+    ],
+    "persist": [
+       
+    ],
+
+}

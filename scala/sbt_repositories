@@ -1,0 +1,6 @@
+[repositories]
+aliyun-nexus: http://maven.aliyun.com/nexus/content/groups/public/  
+ibiblio-maven: http://maven.ibiblio.org/maven2/
+typesafe-ivy: https://dl.bintray.com/typesafe/ivy-releases/, [organization]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]
+uk-repository: http://uk.maven.org/maven2/
+jboss-repository: http://repository.jboss.org/nexus/content/groups/public/
